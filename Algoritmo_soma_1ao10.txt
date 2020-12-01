@@ -1,0 +1,19 @@
+Algoritmo "imprimir10ao1"
+// Disciplina  :  [Lógica de Programação e Algoritmo]
+// Professor   : Silvio Florentino
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 30/11/2020
+Var
+soma, contador : inteiro
+Inicio
+contador <- 1
+
+enquanto (contador < 10) faca
+soma <- soma + contador
+contador <- contador + 1
+escreval("Soma parcial entre os números é =",soma+contador)
+
+fimenquanto
+escreval ("A soma dos números de 1 à 10 é: ", soma+contador)
+Fimalgoritmo
